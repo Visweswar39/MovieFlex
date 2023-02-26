@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    background-color: yellow; font-size: 40px;
+    padding: 10px; margin: auto;
+    }
+
+p{
+    color: azure;
+}
+    
